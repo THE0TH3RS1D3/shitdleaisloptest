@@ -1,2 +1,2 @@
 # wordleaisloptest.github.io
-wordle ai slop
+game inspired by wordle, but worse
